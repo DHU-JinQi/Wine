@@ -5,7 +5,7 @@ Wine.csv：原数据
 
 Wine_Python_NN.ipynb：使用神经网络建模
 
-Wine_python_Model&Adjustment.ipynb：14种模型欲建模与调参
+Wine_python_Model&Adjustment.ipynb：14种模型预建模与调参
 
 Wine_python_Preprocessing&Descriptive.ipynb：数据预处理以及描述性统计
 
