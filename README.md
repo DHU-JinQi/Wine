@@ -1,7 +1,7 @@
 # Wine
-Modeling wine preferences by data mining from physicochemical properties.pdf为参考文献
+Modeling wine preferences by data mining from physicochemical properties.pdf：参考文献
 
-Wine.csv为原数据
+Wine.csv：原数据
 
 Wine_Python_NN.ipynb：使用神经网络建模
 
