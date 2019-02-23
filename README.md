@@ -11,4 +11,3 @@ Wine_python_Preprocessing&Descriptive.ipynb：数据预处理以及描述性统�
 
 Wine_python_Voting&Evaluation.ipynb：使用Voting建模以及模型评估
 
-绘图.py：绘制调参前后对比图
